@@ -8,5 +8,10 @@
     "id": 5,
     "from": "Borna",
     "text": "Marija"
+  },
+  {
+    "id": 2,
+    "from": "Migracode",
+    "text": "Server exercise"
   }
 ]
